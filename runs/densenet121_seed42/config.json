@@ -1,0 +1,29 @@
+{
+  "model": "densenet121",
+  "pretrained": "IMAGENET1K_V1",
+  "seed": 42,
+  "image_size": 224,
+  "crop_padding_per_side": 0.05,
+  "crop_resize": "PIL LANCZOS",
+  "input": "RGB YOLO bbox crop",
+  "mean": [
+    0.485,
+    0.456,
+    0.406
+  ],
+  "std": [
+    0.229,
+    0.224,
+    0.225
+  ],
+  "online_augmentation": false,
+  "epochs": 30,
+  "batch_size": 32,
+  "learning_rate": 0.0001,
+  "weight_decay": 0.0001,
+  "patience": 6,
+  "checkpoint_selection": "highest validation macro F1, then lowest validation loss",
+  "device": "cuda",
+  "dataset": "C:\\Users\\User\\Documents\\TA-FARIS\\TA-FARIS-2\\dataset_sweetnet_numeric",
+  "evaluation_note": "Roboflow augmentation was already applied; some validation/test images are augmented"
+}

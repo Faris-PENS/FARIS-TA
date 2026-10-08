@@ -1,0 +1,12 @@
+{
+  "images": 282,
+  "detected_images": 282,
+  "detection_coverage": 1.0,
+  "top_box_iou50_images": 282,
+  "classification_accuracy_on_detected": 0.8297872340425532,
+  "end_to_end_accuracy": 0.8297872340425532,
+  "correct_class_and_iou50": 0.8297872340425532,
+  "extra_detections": 3,
+  "confidence_threshold": 0.25,
+  "note": "Test images include existing Roboflow augmentation; each image has one labeled melon."
+}

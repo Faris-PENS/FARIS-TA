@@ -1,0 +1,11 @@
+{
+  "checkpoint": "C:\\Users\\User\\Documents\\TA-FARIS\\TA-FARIS-2\\runs\\yolo26n_melon_seed42\\weights\\best.pt",
+  "split": "test",
+  "inference_head": "one-to-one NMS-free",
+  "precision": 0.9954653888099353,
+  "recall": 0.9929078014184397,
+  "map50": 0.9949644128113878,
+  "map50_95": 0.9786003875672616,
+  "images": 282,
+  "note": "Roboflow augmentation is present in test; source-photo families do not cross splits."
+}

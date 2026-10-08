@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.venv*/
+.yolo_config/
+
+# Local datasets and downloaded initialization weights
+/dataset/
+/dataset_sweetnet_numeric/
+/dataset_sweetnet_numeric_yolo/
+/yolo26n_pretrained.pt
+
+# The complete deployment bundle is paket_melon_proxmox.zip
+/melon_inference_proxmox.zip
+
+# Keep metrics and training histories; deployment weights are at the repo root
+/weights/
+/runs/**/weights/
+/runs/**/*.pth
+/runs/**/*.jpg
+/runs/**/*.png
+/runs/**/test_nms_free/

@@ -1,0 +1,9 @@
+{
+  "best_epoch": 2,
+  "epochs_completed": 8,
+  "training_seconds": 87.30815240000084,
+  "validation_macro_f1": 0.8329510258381888,
+  "test_accuracy": 0.8262411347517731,
+  "test_macro_f1": 0.8218979949738751,
+  "checkpoint": "C:\\Users\\User\\Documents\\TA-FARIS\\TA-FARIS-2\\runs\\densenet121_seed42\\best_densenet121.pth"
+}

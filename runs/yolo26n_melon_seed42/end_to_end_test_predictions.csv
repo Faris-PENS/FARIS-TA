@@ -1,0 +1,283 @@
+image,actual_class,predicted_class,detection_count,detection_confidence,iou_top_box,classification_confidence
+dataset_sweetnet_numeric/test/images/39_11_S_jpg.rf.aeefe2b2aa44287b2449ecafd8140dac.jpg,Mentah,Mentah,1,0.9751268625259399,0.9796122660082085,0.9918963313102722
+dataset_sweetnet_numeric/test/images/39_11_S_jpg.rf.bb8c00358856062bca0e620f881867b0.jpg,Mentah,Mentah,1,0.9761769771575928,0.9690090313002598,0.994903564453125
+dataset_sweetnet_numeric/test/images/39_11_S_jpg.rf.e6096acab2d82858e69c40b6840f0180.jpg,Mentah,Mentah,1,0.9822583198547363,0.9789286224960678,0.9672410488128662
+dataset_sweetnet_numeric/test/images/39_7_S_jpg.rf.075f24f31965fcd98bd566b9c19b7dd1.jpg,Mentah,Mentah,1,0.9771561622619629,0.9788935378893537,0.9080629348754883
+dataset_sweetnet_numeric/test/images/39_7_S_jpg.rf.8b07974493c0e8c6ba80c6efc935b5f3.jpg,Mentah,Mentah,1,0.9678528904914856,0.9845090997626149,0.9530805349349976
+dataset_sweetnet_numeric/test/images/39_7_S_jpg.rf.df02cb7646f4c967c42df27c65cef000.jpg,Mentah,Mentah,1,0.979467511177063,0.9811151824430392,0.9297032952308655
+dataset_sweetnet_numeric/test/images/39_8_S_jpg.rf.38254520ab0ed99bb135ac5ae0a868b5.jpg,Mentah,Mentah,1,0.9765884876251221,0.9694931933737904,0.934114933013916
+dataset_sweetnet_numeric/test/images/39_8_S_jpg.rf.7fbcb1ae85ebd9e221c9033c12610dc3.jpg,Mentah,Mentah,1,0.9774816036224365,0.9630449078820887,0.9686456322669983
+dataset_sweetnet_numeric/test/images/39_8_S_jpg.rf.a35ab139058e87f6301dbd2ac561c98c.jpg,Mentah,Mentah,1,0.977292537689209,0.9550819903873339,0.9913767576217651
+dataset_sweetnet_numeric/test/images/40_3_S_jpg.rf.4d68b54ab64679c5a3e6ec46c98a4c6b.jpg,Mentah,Mentah,1,0.9608252048492432,0.9709233372866224,0.998893678188324
+dataset_sweetnet_numeric/test/images/40_3_S_jpg.rf.7069e0b988124c60cf55cfd1a1e1d483.jpg,Mentah,Mentah,1,0.9667905569076538,0.9770761245674741,0.9915164709091187
+dataset_sweetnet_numeric/test/images/40_3_S_jpg.rf.ddc8e085c693092a2be8b23ddde4c6dc.jpg,Mentah,Mentah,1,0.971677303314209,0.9727584279545313,0.998869001865387
+dataset_sweetnet_numeric/test/images/40_9_B_jpg.rf.15aef782f37224373fd3224e35a7835b.jpg,Mentah,Mentah,1,0.9764838218688965,0.9873612656034703,0.9506219029426575
+dataset_sweetnet_numeric/test/images/40_9_B_jpg.rf.601310ba69c37c21f90558e8d80779dd.jpg,Mentah,Mentah,1,0.9805737733840942,0.9753142510979858,0.8936797380447388
+dataset_sweetnet_numeric/test/images/40_9_B_jpg.rf.a874aa861e95e0e0565dbef80bcec81a.jpg,Mentah,Mentah,1,0.9805901050567627,0.9611582371324702,0.9591639637947083
+dataset_sweetnet_numeric/test/images/41_7_B_jpg.rf.0c4b2ead4cbfd9bd70baf81c94bcbc98.jpg,Mentah,Mentah,1,0.9794826507568359,0.960033547008032,0.9734163284301758
+dataset_sweetnet_numeric/test/images/41_7_B_jpg.rf.919f9b2d8dc2b1f34c7ae80edf57a4e8.jpg,Mentah,Mentah,1,0.9785100221633911,0.9858884709565042,0.9847047328948975
+dataset_sweetnet_numeric/test/images/41_7_B_jpg.rf.f4a4e71b888db46bf72587bad222d1fb.jpg,Mentah,Mentah,1,0.9803811311721802,0.9857619291944587,0.9796745181083679
+dataset_sweetnet_numeric/test/images/42_1_B_jpg.rf.74974c587778ffbbefe1922006f3f060.jpg,Mentah,Mentah,1,0.9792150259017944,0.9892857142857143,0.9769293665885925
+dataset_sweetnet_numeric/test/images/42_1_B_jpg.rf.8b21de091b40ef4eaa32cbf5582e9eac.jpg,Mentah,Mentah,1,0.9761055707931519,0.9932916981941794,0.9436758160591125
+dataset_sweetnet_numeric/test/images/42_1_B_jpg.rf.e2ed20da6f852ab7c7d70433e567f974.jpg,Mentah,Mentah,1,0.982011079788208,0.9986926171780763,0.9433674216270447
+dataset_sweetnet_numeric/test/images/42_3_S_jpg.rf.0c6359899bdfcef73a12a582c05e7fb2.jpg,Mentah,Mentah,1,0.9754888415336609,0.940499504056563,0.9966105818748474
+dataset_sweetnet_numeric/test/images/42_3_S_jpg.rf.900bbbf1847320ea9b1ac29c94073a04.jpg,Mentah,Mentah,1,0.9810876846313477,0.9474299956763905,0.9970182180404663
+dataset_sweetnet_numeric/test/images/42_3_S_jpg.rf.eccb5a883b67a6937b056f8776d73dae.jpg,Mentah,Mentah,1,0.9719969630241394,0.9508929059863118,0.9986880421638489
+dataset_sweetnet_numeric/test/images/43_15_S_jpg.rf.005c258ec816f9b6574e697f15cd31a1.jpg,Mentah,Mentah,1,0.9798706769943237,0.9662942522546776,0.9830143451690674
+dataset_sweetnet_numeric/test/images/43_15_S_jpg.rf.95b50d3845ce2b486aaa7ff71084ecb2.jpg,Mentah,Mentah,1,0.9741181135177612,0.9597784538575552,0.9868189096450806
+dataset_sweetnet_numeric/test/images/43_15_S_jpg.rf.cf8a47ad6e5b6a034c1a71c3e33bdd8a.jpg,Mentah,Mentah,1,0.978476881980896,0.9498399699582548,0.9946326017379761
+dataset_sweetnet_numeric/test/images/43_5_B_jpg.rf.60c460c9c7b3ad61de857ee114012b13.jpg,Mentah,Mentah,1,0.9774917364120483,0.9742479489516864,0.8819247484207153
+dataset_sweetnet_numeric/test/images/43_5_B_jpg.rf.aa0aa113e0fc56e0ed9168117e73a638.jpg,Mentah,Mentah,1,0.9859095811843872,0.9699136218118493,0.9623147249221802
+dataset_sweetnet_numeric/test/images/43_5_B_jpg.rf.ee76685d321d03eb3430570f831dd047.jpg,Mentah,Mentah,1,0.9786839485168457,0.9709806756934403,0.9684694409370422
+dataset_sweetnet_numeric/test/images/44_12_B_jpg.rf.be31905c373ce179bf7fe43146d515d7.jpg,Mentah,Mentah,1,0.9755483865737915,0.9712171060238861,0.9391812086105347
+dataset_sweetnet_numeric/test/images/44_14_S_jpg.rf.345acd6e3649afdc1622b8b438b15ce4.jpg,Mentah,Mentah,1,0.9747763276100159,0.9851116625310173,0.9983645081520081
+dataset_sweetnet_numeric/test/images/44_14_S_jpg.rf.b2c5682900b2ba6d87ca727164beb1f6.jpg,Mentah,Mentah,1,0.9758745431900024,0.9788894253528605,0.9981794357299805
+dataset_sweetnet_numeric/test/images/44_14_S_jpg.rf.cf1916b391b633cf240e820f6f409e95.jpg,Mentah,Mentah,1,0.9475701451301575,0.9800979791794244,0.9963725805282593
+dataset_sweetnet_numeric/test/images/44_2_S_jpg.rf.053b66652e39dc4abe86a68c66572b52.jpg,Mentah,Mentah,1,0.9831265211105347,0.9757923633641128,0.9799762964248657
+dataset_sweetnet_numeric/test/images/44_2_S_jpg.rf.d00f9a148bdea0ae90f2dd71d51f73ab.jpg,Mentah,Mentah,1,0.9776954650878906,0.9772975317885383,0.9915874600410461
+dataset_sweetnet_numeric/test/images/44_2_S_jpg.rf.ff6145629a072b1e45b662a498f2df31.jpg,Mentah,Mentah,1,0.9797132015228271,0.9666388657214345,0.9933429956436157
+dataset_sweetnet_numeric/test/images/44_4_B_jpg.rf.66da5d634c13d85083dbce93594bbd66.jpg,Mentah,Mentah,1,0.9746070504188538,0.9542039101171615,0.9805537462234497
+dataset_sweetnet_numeric/test/images/44_4_B_jpg.rf.ceb97beb88b19da7a0e5b6879a7faaa0.jpg,Mentah,Mentah,1,0.9798750877380371,0.9587553280956865,0.9876171946525574
+dataset_sweetnet_numeric/test/images/44_4_B_jpg.rf.e0765ab11fb569e91222550b82ab0e0e.jpg,Mentah,Mentah,1,0.9751647114753723,0.9510241798860312,0.9895197153091431
+dataset_sweetnet_numeric/test/images/44_6_B_jpg.rf.0ee2b1a529870212bfb76011277db856.jpg,Mentah,Mentah,1,0.9735497236251831,0.9794293297942933,0.9584656357765198
+dataset_sweetnet_numeric/test/images/44_6_B_jpg.rf.aa12df06568b1a95093e1c1f6f928c6e.jpg,Mentah,Mentah,1,0.9786369800567627,0.960708033456526,0.9734206199645996
+dataset_sweetnet_numeric/test/images/44_6_B_jpg.rf.bd0eac8a4aab1c65af14136b728bff45.jpg,Mentah,Mentah,1,0.9558010101318359,0.9655220082299283,0.973275363445282
+dataset_sweetnet_numeric/test/images/45_11_B_jpg.rf.0c3ca6772f92161a200c6e91626a9fba.jpg,Mentah,Mentah,1,0.9811623096466064,0.9738106129917657,0.9914820194244385
+dataset_sweetnet_numeric/test/images/45_11_B_jpg.rf.1826969a61db2438224b436805063db3.jpg,Mentah,Mentah,1,0.9699958562850952,0.9791671680254411,0.9924895763397217
+dataset_sweetnet_numeric/test/images/45_11_B_jpg.rf.530a7cba9e1477b9ee69f804d433229d.jpg,Mentah,Mentah,1,0.9836627244949341,0.9885057471264368,0.9952272176742554
+dataset_sweetnet_numeric/test/images/45_12_B_jpg.rf.1886078f19c7c86df28720afb8180a5c.jpg,Mentah,Mentah,1,0.982140064239502,0.9816315137321114,0.7225297689437866
+dataset_sweetnet_numeric/test/images/45_12_B_jpg.rf.411baf40045ed42f720dfaf75798ac52.jpg,Mentah,Mentah,1,0.9815338253974915,0.9625500285877644,0.6758655309677124
+dataset_sweetnet_numeric/test/images/45_12_B_jpg.rf.c3ada8eb21267e78d99338052b194102.jpg,Mentah,Mentah,1,0.9824446439743042,0.9649575298438938,0.8737817406654358
+dataset_sweetnet_numeric/test/images/45_7_B_jpg.rf.355b7c7a592561c77d1e3627bf3d86b0.jpg,Mentah,Mentah,1,0.9776935577392578,0.9806302914344655,0.8565257787704468
+dataset_sweetnet_numeric/test/images/46_10_B_jpg.rf.de072b48bdbcbca224877cb3df086e7f.jpg,Mentah,Mentah,1,0.9828082323074341,0.9778618896124373,0.9853357672691345
+dataset_sweetnet_numeric/test/images/46_15_S_jpg.rf.7c0bdd4a17c49c9e7d25319eecf10377.jpg,Mentah,Mentah,1,0.9758826494216919,0.9724675495155319,0.9457755088806152
+dataset_sweetnet_numeric/test/images/46_2_B_jpg.rf.537d3623f0b8355f79c8f953ca212094.jpg,Mentah,Mentah,1,0.9837321043014526,0.9720383762822137,0.9582368731498718
+dataset_sweetnet_numeric/test/images/46_2_B_jpg.rf.7d50d8966a6aeadb6d558b2a8eda7937.jpg,Mentah,Mentah,1,0.9743547439575195,0.9857596557729741,0.9498194456100464
+dataset_sweetnet_numeric/test/images/46_2_B_jpg.rf.b04a400a693cf3e07dab399198ca7c6f.jpg,Mentah,Mentah,1,0.9823228120803833,0.9753970725630645,0.9651503562927246
+dataset_sweetnet_numeric/test/images/46_3_S_jpg.rf.aa07ec7337e44c0e153ab5cad4398423.jpg,Mentah,Mentah,1,0.9761499762535095,0.9727120311539255,0.9986322522163391
+dataset_sweetnet_numeric/test/images/46_4_B_jpg.rf.0f9331217a0dee9c227369514c96ce13.jpg,Mentah,Mentah,1,0.9765962958335876,0.9783997979837221,0.9397497177124023
+dataset_sweetnet_numeric/test/images/46_4_B_jpg.rf.5568154fce6e01642527127bf23650ba.jpg,Mentah,Mentah,1,0.9661250114440918,0.9766325042978288,0.983982264995575
+dataset_sweetnet_numeric/test/images/46_4_B_jpg.rf.d156a95b530852f9fe6f04b79bdc5eb1.jpg,Mentah,Mentah,1,0.9749883413314819,0.9739883276002009,0.9800150990486145
+dataset_sweetnet_numeric/test/images/46_4_S_jpg.rf.381d480bebc6ca8772f60b94628a594d.jpg,Mentah,Mentah,1,0.8965466618537903,0.9500063123343012,0.9976292252540588
+dataset_sweetnet_numeric/test/images/46_4_S_jpg.rf.91243db57f818f1e25eb02a870022216.jpg,Mentah,Mentah,1,0.9576170444488525,0.9652846075538761,0.9982446432113647
+dataset_sweetnet_numeric/test/images/46_4_S_jpg.rf.c6c338f625496b3fc1cce1138857f15d.jpg,Mentah,Mentah,1,0.9575163125991821,0.9863153016242758,0.9960850477218628
+dataset_sweetnet_numeric/test/images/46_6_S_jpg.rf.a9d25bbf1ea8caf3f895f3cda5386f5e.jpg,Mentah,Mentah,1,0.9623433351516724,0.9780842851636895,0.9824901223182678
+dataset_sweetnet_numeric/test/images/46_6_S_jpg.rf.e8be8c6c5f48adffb020b4b521cd62c6.jpg,Mentah,Mentah,1,0.9676337242126465,0.98245408819745,0.9845924973487854
+dataset_sweetnet_numeric/test/images/46_6_S_jpg.rf.fda945fd13fa79a5392800bdb65afd0f.jpg,Mentah,Mentah,1,0.9659119844436646,0.9875168513752473,0.9714345335960388
+dataset_sweetnet_numeric/test/images/47_10_B_jpg.rf.67e627fc7210d450adb31b9ff8ea991e.jpg,Mentah,Mentah,1,0.978154182434082,0.9549432088859915,0.9899745583534241
+dataset_sweetnet_numeric/test/images/47_10_B_jpg.rf.b7755cef0417d8b927156dd4049c028f.jpg,Mentah,Mentah,1,0.9799208045005798,0.9532746920829666,0.9916297793388367
+dataset_sweetnet_numeric/test/images/47_10_B_jpg.rf.c4f2253d022c68c3ce74674d779661e9.jpg,Mentah,Mentah,1,0.971122682094574,0.948450102030901,0.9922900795936584
+dataset_sweetnet_numeric/test/images/47_6_B_jpg.rf.1acca84eae2dda560048d7a274308161.jpg,Mentah,Mentah,1,0.974001407623291,0.9688122096881221,0.97444748878479
+dataset_sweetnet_numeric/test/images/47_6_B_jpg.rf.65091bc0718a3b23b3ca0f963b966ffb.jpg,Mentah,Mentah,1,0.9806728959083557,0.9903225806451613,0.9720284938812256
+dataset_sweetnet_numeric/test/images/47_6_B_jpg.rf.e5c2ada7e5ea18f699675609615a9b9d.jpg,Mentah,Mentah,1,0.9352353811264038,0.9948430668472816,0.9881800413131714
+dataset_sweetnet_numeric/test/images/47_8_B_jpg.rf.1140ca4011e7648be82267a5e9fe9f89.jpg,Mentah,Mentah,1,0.9562087059020996,0.9470980909417688,0.9217672944068909
+dataset_sweetnet_numeric/test/images/48_14_B_jpg.rf.9ffce27bafed2f6511d2c427e680fb65.jpg,Mentah,Mentah,1,0.9721662998199463,0.9792908374583291,0.9665288329124451
+dataset_sweetnet_numeric/test/images/48_14_B_jpg.rf.acb448119459081522d8ebb00ec4f06f.jpg,Mentah,Mentah,1,0.9793370962142944,0.9954407433412054,0.9777282476425171
+dataset_sweetnet_numeric/test/images/48_14_B_jpg.rf.e23e911dffc7404cf07fadc454051732.jpg,Mentah,Mentah,1,0.9773439168930054,0.9909297052154195,0.9800334572792053
+dataset_sweetnet_numeric/test/images/48_3_B_jpg.rf.2df0d2453b883039036e2e7e06748b09.jpg,Mentah,Mentah,1,0.983006477355957,0.9933045886536167,0.6777289509773254
+dataset_sweetnet_numeric/test/images/48_3_B_jpg.rf.ea763d01176ac9ba7405926c0494466e.jpg,Mentah,Mentah,1,0.9834319353103638,0.9845559845559846,0.7991688251495361
+dataset_sweetnet_numeric/test/images/48_3_B_jpg.rf.f94b55dbcebcb92b740f13edea9e01fa.jpg,Mentah,Mentah,1,0.9798260927200317,0.9828590934581718,0.6498503088951111
+dataset_sweetnet_numeric/test/images/48_9_S_jpg.rf.1edf84d7dd624f2543162813d9ffb81f.jpg,Mentah,Mentah,1,0.9771966934204102,0.9787428018641023,0.9941046833992004
+dataset_sweetnet_numeric/test/images/49_13_S_jpg.rf.01c24f36205307acce1e999e15a1557b.jpg,Mentah,Mentah,1,0.9854323863983154,0.9439710371272858,0.5686208009719849
+dataset_sweetnet_numeric/test/images/49_5_S_jpg.rf.368d8fce392fd27ddaca8fc70c98d2c9.jpg,Mentah,Setengah Matang,1,0.9821616411209106,0.955368889788483,0.7017494440078735
+dataset_sweetnet_numeric/test/images/49_5_S_jpg.rf.7c0d163157fdf401dc69f62c51914a3f.jpg,Mentah,Mentah,1,0.9889683723449707,0.9563318777292577,0.5473718643188477
+dataset_sweetnet_numeric/test/images/49_5_S_jpg.rf.f13070c0f07b72124ca20cafc00fbd07.jpg,Mentah,Setengah Matang,1,0.9696922898292542,0.9732183896472306,0.8351749777793884
+dataset_sweetnet_numeric/test/images/49_7_B_jpg.rf.3d0253c589890597bac1895df4ee8ae7.jpg,Mentah,Setengah Matang,1,0.9805304408073425,0.9865715679669168,0.7061043977737427
+dataset_sweetnet_numeric/test/images/49_7_B_jpg.rf.c4706bb8cfb0e0426d13d9806e05ca7f.jpg,Mentah,Setengah Matang,1,0.9801803231239319,0.9893600334623026,0.5873205661773682
+dataset_sweetnet_numeric/test/images/49_7_B_jpg.rf.d1bd12a0d7918fe6a6c884bb859cf57f.jpg,Mentah,Mentah,1,0.981411337852478,0.9821499894661124,0.6010289788246155
+dataset_sweetnet_numeric/test/images/49_7_S_jpg.rf.a8592e36de30276e22d7d64fb3f3f88e.jpg,Mentah,Mentah,1,0.9776018857955933,0.9707532639641322,0.9862083196640015
+dataset_sweetnet_numeric/test/images/50_13_S_jpg.rf.05824075a9b67d9458b66a0876a7cff0.jpg,Mentah,Mentah,1,0.9802488088607788,0.9767584071128114,0.6169497966766357
+dataset_sweetnet_numeric/test/images/50_13_S_jpg.rf.a3a1f373a1f5b3f2a14420d22438e110.jpg,Mentah,Mentah,1,0.9792380332946777,0.9731542243525128,0.5080440640449524
+dataset_sweetnet_numeric/test/images/50_13_S_jpg.rf.f17ca6f000199421a9e10df50249257d.jpg,Mentah,Setengah Matang,1,0.9842437505722046,0.9628125,0.5359137654304504
+dataset_sweetnet_numeric/test/images/51_13_S_jpg.rf.2a2e9fe36a36ae1a0d2f3b2e62b8a70b.jpg,Setengah Matang,Mentah,1,0.9815413355827332,0.9879965430043852,0.807496964931488
+dataset_sweetnet_numeric/test/images/51_13_S_jpg.rf.6b0b9d313c2ec9ede40fea532d25e058.jpg,Setengah Matang,Mentah,1,0.9740585684776306,0.9858276447981615,0.6885103583335876
+dataset_sweetnet_numeric/test/images/51_13_S_jpg.rf.959685e6bf1110e5bb9e47ba5b46f0de.jpg,Setengah Matang,Mentah,1,0.9615956544876099,0.9858709921456067,0.5745448470115662
+dataset_sweetnet_numeric/test/images/51_3_S_jpg.rf.525d1a6d4f5b5f32f11b17a4d5db6e6d.jpg,Setengah Matang,Mentah,1,0.9734519720077515,0.978448275862069,0.8199905753135681
+dataset_sweetnet_numeric/test/images/51_3_S_jpg.rf.a0d37023ea50695653e282c320231324.jpg,Setengah Matang,Mentah,1,0.9838841557502747,0.9751889299147659,0.7130963802337646
+dataset_sweetnet_numeric/test/images/51_3_S_jpg.rf.aaacee40c720f9a912879c53907849d2.jpg,Setengah Matang,Mentah,1,0.9794836640357971,0.9787204153714337,0.8893498182296753
+dataset_sweetnet_numeric/test/images/51_8_B_jpg.rf.052fd29421d6c5c72de0884afca12d2c.jpg,Setengah Matang,Mentah,1,0.9759035110473633,0.965711224216448,0.9493582248687744
+dataset_sweetnet_numeric/test/images/51_8_B_jpg.rf.7e7ae537c4313ed1c4f52dc2fb5036b2.jpg,Setengah Matang,Mentah,1,0.9699129462242126,0.9283924012086857,0.9249938130378723
+dataset_sweetnet_numeric/test/images/51_8_B_jpg.rf.bf9cbf0f88fda45efd774c8c9843f9db.jpg,Setengah Matang,Mentah,1,0.9780890941619873,0.9613269907950824,0.8422501683235168
+dataset_sweetnet_numeric/test/images/52_1_S_jpg.rf.e061bf201e5e1e67eeb122277084a1ac.jpg,Setengah Matang,Setengah Matang,1,0.9774869084358215,0.9947563368204873,0.54509437084198
+dataset_sweetnet_numeric/test/images/52_3_B_jpg.rf.14d341449bb318d92c8ac2bfb7d70791.jpg,Setengah Matang,Setengah Matang,1,0.9817767143249512,0.9896846725264924,0.9155218601226807
+dataset_sweetnet_numeric/test/images/52_3_B_jpg.rf.7a03054ba0a0fc8d63882a7ba8b81c97.jpg,Setengah Matang,Setengah Matang,1,0.9789419174194336,0.9968652037617555,0.8226925730705261
+dataset_sweetnet_numeric/test/images/52_3_B_jpg.rf.aea67c22a6af74c53105ddeb8efc2256.jpg,Setengah Matang,Setengah Matang,1,0.9795961380004883,0.9867070965359632,0.8887637257575989
+dataset_sweetnet_numeric/test/images/53_10_S_jpg.rf.4f5f3ba44a3be431e47da9669dadbea1.jpg,Setengah Matang,Setengah Matang,2,0.7739779949188232,0.9884615384615385,0.6523193120956421
+dataset_sweetnet_numeric/test/images/53_10_S_jpg.rf.769410f0117cab6cf9299f550d83cd24.jpg,Setengah Matang,Setengah Matang,1,0.9785902500152588,0.9724926971762414,0.8183354735374451
+dataset_sweetnet_numeric/test/images/53_10_S_jpg.rf.dad34dc8a29dd4108bd01141e469a69a.jpg,Setengah Matang,Setengah Matang,1,0.9871342778205872,0.9927688279258502,0.844163179397583
+dataset_sweetnet_numeric/test/images/53_11_S_jpg.rf.3bc08476694815ef2c671595efca9e74.jpg,Setengah Matang,Setengah Matang,1,0.9779855012893677,0.9910666968108272,0.989447832107544
+dataset_sweetnet_numeric/test/images/53_1_B_jpg.rf.04461467dc7a23b17eba56e01199ad2e.jpg,Setengah Matang,Setengah Matang,1,0.9765433669090271,0.9897355295157918,0.9823792576789856
+dataset_sweetnet_numeric/test/images/53_1_B_jpg.rf.3aca62bf01b82fb85b65d118e11ac620.jpg,Setengah Matang,Setengah Matang,1,0.9763529300689697,1.0,0.9809294939041138
+dataset_sweetnet_numeric/test/images/53_1_B_jpg.rf.a427aaa01ed8a4914c0a08648b8b6ae5.jpg,Setengah Matang,Setengah Matang,1,0.9755409955978394,0.9859268702116649,0.9816433787345886
+dataset_sweetnet_numeric/test/images/53_6_S_jpg.rf.8ed740d9c753e1490c6456616b644756.jpg,Setengah Matang,Setengah Matang,1,0.9707684516906738,0.9596253339194536,0.9203065633773804
+dataset_sweetnet_numeric/test/images/53_6_S_jpg.rf.ac7f8e588d7896d7edc383a7623d9628.jpg,Setengah Matang,Setengah Matang,1,0.9810447692871094,0.9674059735267254,0.9686329960823059
+dataset_sweetnet_numeric/test/images/53_6_S_jpg.rf.fcb5abc632f74240abd7a9b866cef5b0.jpg,Setengah Matang,Setengah Matang,1,0.9748974442481995,0.9719296659192024,0.952095091342926
+dataset_sweetnet_numeric/test/images/53_7_S_jpg.rf.919f983a9dec04f6bc60402e89c66f62.jpg,Setengah Matang,Setengah Matang,1,0.9639425277709961,0.8751350517055101,0.9416996836662292
+dataset_sweetnet_numeric/test/images/53_7_S_jpg.rf.abc697daa312516976cf602ed16873f7.jpg,Setengah Matang,Setengah Matang,1,0.9751573204994202,0.8861797053330567,0.9606947898864746
+dataset_sweetnet_numeric/test/images/53_7_S_jpg.rf.caaf1a19a11a74ee8e37ab598ce53c96.jpg,Setengah Matang,Setengah Matang,1,0.35564124584198,0.8982711824655508,0.8888445496559143
+dataset_sweetnet_numeric/test/images/53_8_S_jpg.rf.599a4a1858121d655f3bc37c64caea6e.jpg,Setengah Matang,Setengah Matang,1,0.9727644920349121,0.9875243401524954,0.973196804523468
+dataset_sweetnet_numeric/test/images/54_11_B_jpg.rf.4b974b654d1c4e0b67daf1500598deb9.jpg,Setengah Matang,Setengah Matang,2,0.8147116899490356,0.9685968185699377,0.9868478178977966
+dataset_sweetnet_numeric/test/images/54_11_B_jpg.rf.4fcbb55ae916f6b2e527ea2acf222682.jpg,Setengah Matang,Setengah Matang,1,0.9727411270141602,0.9876455107069348,0.9845646619796753
+dataset_sweetnet_numeric/test/images/54_11_B_jpg.rf.697d7abe8a37dfa2b262bc96122cfc35.jpg,Setengah Matang,Setengah Matang,1,0.9762676358222961,0.982373678025852,0.9630563259124756
+dataset_sweetnet_numeric/test/images/54_4_B_jpg.rf.57490843f5f59d232575fbde28d1a0f1.jpg,Setengah Matang,Setengah Matang,1,0.9603475332260132,0.9841897233201581,0.9877282381057739
+dataset_sweetnet_numeric/test/images/54_4_B_jpg.rf.edb32636315d96ac567bf5fea23c5788.jpg,Setengah Matang,Setengah Matang,1,0.976486325263977,0.9876795615320884,0.9695112705230713
+dataset_sweetnet_numeric/test/images/54_4_B_jpg.rf.fb18767987d7dce5baf85627796e0c21.jpg,Setengah Matang,Setengah Matang,1,0.9852626323699951,0.9863799283154122,0.9818143248558044
+dataset_sweetnet_numeric/test/images/54_5_S_jpg.rf.cc02947e5898b41f7a423162a60ea30d.jpg,Setengah Matang,Setengah Matang,1,0.9784719944000244,0.9757896224611114,0.9185295701026917
+dataset_sweetnet_numeric/test/images/54_5_S_jpg.rf.e1cf57d6e4518e9ba9b96da8fdc4b482.jpg,Setengah Matang,Setengah Matang,1,0.9795807003974915,0.9800389483933788,0.9110795259475708
+dataset_sweetnet_numeric/test/images/54_5_S_jpg.rf.ed17117df3a9c5b9c2901632d401a621.jpg,Setengah Matang,Setengah Matang,1,0.981845498085022,0.9809498949383737,0.9342015981674194
+dataset_sweetnet_numeric/test/images/55_14_B_jpg.rf.b073b437bcebf53331dc9a354165f1cb.jpg,Setengah Matang,Setengah Matang,1,0.9824821949005127,0.981623310174834,0.9248141646385193
+dataset_sweetnet_numeric/test/images/55_14_S_jpg.rf.6ecb7f7495688d59e6de9973ac38ea73.jpg,Setengah Matang,Setengah Matang,1,0.985905647277832,0.9811741187525527,0.8660923838615417
+dataset_sweetnet_numeric/test/images/55_14_S_jpg.rf.e385cdbd73e14ebe8ed69ba91643d4f5.jpg,Setengah Matang,Setengah Matang,1,0.9840594530105591,0.980475251186587,0.8926757574081421
+dataset_sweetnet_numeric/test/images/55_14_S_jpg.rf.ee6a55aca7c4b5d0d1ababba054deda6.jpg,Setengah Matang,Setengah Matang,1,0.9817030429840088,0.9812933341282672,0.9129731059074402
+dataset_sweetnet_numeric/test/images/55_7_B_jpg.rf.d78bd1a5b8256912a339b7f44f021cb4.jpg,Setengah Matang,Setengah Matang,1,0.9779841899871826,0.9744523964301017,0.9724790453910828
+dataset_sweetnet_numeric/test/images/55_8_B_jpg.rf.3f3c68f7d8a0aea5da2bd06c887baeee.jpg,Setengah Matang,Setengah Matang,1,0.9751957654953003,0.973208759468301,0.9589206576347351
+dataset_sweetnet_numeric/test/images/55_8_B_jpg.rf.631c749923d3919e5d90faafd92b742e.jpg,Setengah Matang,Setengah Matang,1,0.975884199142456,0.9732087594683014,0.9794961810112
+dataset_sweetnet_numeric/test/images/55_8_B_jpg.rf.678e1dde973e6243d0999e4089953915.jpg,Setengah Matang,Setengah Matang,1,0.976000189781189,0.9835874066020496,0.943199098110199
+dataset_sweetnet_numeric/test/images/56_12_S_jpg.rf.3baddb6b97dcc20b7b4b6fbb67e4761e.jpg,Setengah Matang,Setengah Matang,1,0.9700360894203186,0.9890510948905109,0.8134077191352844
+dataset_sweetnet_numeric/test/images/56_12_S_jpg.rf.584eab8c923fae7f8ee22bdeb49c880e.jpg,Setengah Matang,Setengah Matang,1,0.976334810256958,0.9791951883242149,0.740778923034668
+dataset_sweetnet_numeric/test/images/56_12_S_jpg.rf.73b3ba61a7326b9eb8e248636eb03cd4.jpg,Setengah Matang,Setengah Matang,1,0.9704487323760986,0.9621804903495045,0.8004665970802307
+dataset_sweetnet_numeric/test/images/56_14_S_jpg.rf.8015d5a3d24ff6e998a8a58d0d8b1cd3.jpg,Setengah Matang,Setengah Matang,1,0.9458824396133423,0.9823642201046475,0.8739054799079895
+dataset_sweetnet_numeric/test/images/56_14_S_jpg.rf.ba4b1365afeeb9ef9bbc9cdc0eeed479.jpg,Setengah Matang,Setengah Matang,1,0.9840567111968994,0.9846887844979448,0.8916051983833313
+dataset_sweetnet_numeric/test/images/56_14_S_jpg.rf.f03e0af7b874eaee067e1d760229a097.jpg,Setengah Matang,Setengah Matang,1,0.978473424911499,0.9862539652023454,0.8550604581832886
+dataset_sweetnet_numeric/test/images/56_1_S_jpg.rf.515cfe5151ad87eb9db2e548ce315966.jpg,Setengah Matang,Setengah Matang,1,0.9665084481239319,0.97963699993138,0.9515765905380249
+dataset_sweetnet_numeric/test/images/56_1_S_jpg.rf.604665fd167d1612d43fea01bd8c910d.jpg,Setengah Matang,Setengah Matang,1,0.9700380563735962,0.9927272727272727,0.8656158447265625
+dataset_sweetnet_numeric/test/images/56_1_S_jpg.rf.ad3735aa3a61c85a806d13758c1cc760.jpg,Setengah Matang,Setengah Matang,1,0.986470639705658,0.9815967551614356,0.9255082607269287
+dataset_sweetnet_numeric/test/images/57_14_S_jpg.rf.22fa788e4ecc2685424fdc9ae40dffb5.jpg,Setengah Matang,Setengah Matang,1,0.9745324850082397,0.9884688920465112,0.8003993034362793
+dataset_sweetnet_numeric/test/images/57_14_S_jpg.rf.8fc42b84d3af8682d94479199b75bb64.jpg,Setengah Matang,Setengah Matang,1,0.9847245216369629,0.98989898989899,0.8589707016944885
+dataset_sweetnet_numeric/test/images/57_14_S_jpg.rf.d5b293e738e6081a3069ebaebc3a88c2.jpg,Setengah Matang,Setengah Matang,1,0.9811809659004211,0.969980887754706,0.9210973978042603
+dataset_sweetnet_numeric/test/images/57_5_S_jpg.rf.ee50602da68c93dae14afe5b2d118d1d.jpg,Setengah Matang,Setengah Matang,1,0.9813207387924194,0.9762224132945246,0.930645227432251
+dataset_sweetnet_numeric/test/images/59_10_B_jpg.rf.e049090aa0199f89bcaedaca8ba75b5a.jpg,Setengah Matang,Setengah Matang,1,0.9791069626808167,0.9841532254746433,0.62004154920578
+dataset_sweetnet_numeric/test/images/59_10_S_jpg.rf.827181400509b2c7d3f45963e876f86c.jpg,Setengah Matang,Setengah Matang,1,0.9771419167518616,0.9867301558079428,0.7638013362884521
+dataset_sweetnet_numeric/test/images/60_13_B_jpg.rf.16a91d365283723c50228ce0b5d6728b.jpg,Setengah Matang,Matang,1,0.979282021522522,0.9846153846153847,0.9559417963027954
+dataset_sweetnet_numeric/test/images/60_13_B_jpg.rf.1ca7fc8af361afb6433a88a93897b2c2.jpg,Setengah Matang,Matang,1,0.9751647114753723,0.9763513513513513,0.9658140540122986
+dataset_sweetnet_numeric/test/images/60_13_B_jpg.rf.9aba823bcfc434eaeb7314d60717dca6.jpg,Setengah Matang,Matang,1,0.9755430221557617,0.9775368382977289,0.9547351002693176
+dataset_sweetnet_numeric/test/images/60_15_B_jpg.rf.14740a3eda8b28a3064a112a9284553c.jpg,Setengah Matang,Matang,1,0.9762779474258423,0.9801673736099965,0.9029914140701294
+dataset_sweetnet_numeric/test/images/60_15_B_jpg.rf.2ca9624904084186ab1826e9c7c62473.jpg,Setengah Matang,Matang,1,0.9803441762924194,0.9857954545454546,0.9008018970489502
+dataset_sweetnet_numeric/test/images/60_15_B_jpg.rf.a0a7862e02c2d30edaa979134548e5b1.jpg,Setengah Matang,Matang,1,0.9775575399398804,0.9744007192561228,0.9145022034645081
+dataset_sweetnet_numeric/test/images/60_5_B_jpg.rf.e19f9fb874d5a8535424c8a39e28b721.jpg,Setengah Matang,Matang,1,0.985461413860321,0.9862275963678019,0.5044507384300232
+dataset_sweetnet_numeric/test/images/60_6_S_jpg.rf.58c7bac6d78add342577e20f9bbf9031.jpg,Setengah Matang,Matang,1,0.9252728223800659,0.9822774284080869,0.6911889910697937
+dataset_sweetnet_numeric/test/images/60_6_S_jpg.rf.87024c6637f2227f345db926558f7326.jpg,Setengah Matang,Matang,1,0.9727552533149719,0.984777905405846,0.669778048992157
+dataset_sweetnet_numeric/test/images/60_6_S_jpg.rf.d2a87ebea0714c6e9a2518749d380ddf.jpg,Setengah Matang,Setengah Matang,1,0.973796010017395,0.9825174825174825,0.8241822719573975
+dataset_sweetnet_numeric/test/images/60_7_B_jpg.rf.0144d83fec48640566c39c7d3d77dc80.jpg,Setengah Matang,Matang,1,0.97835373878479,0.9882005899705014,0.9249922633171082
+dataset_sweetnet_numeric/test/images/60_7_B_jpg.rf.37a32546b6f6206c22c4d184cd3bbc52.jpg,Setengah Matang,Matang,1,0.9823399782180786,0.9951725664780582,0.8668525218963623
+dataset_sweetnet_numeric/test/images/60_7_B_jpg.rf.42065b466380bb357b3cba7e7270e8dd.jpg,Setengah Matang,Matang,1,0.9814649820327759,0.9859140859140859,0.8131182193756104
+dataset_sweetnet_numeric/test/images/61_10_S_jpg.rf.d8d70d7c06725d4a07b7bc677fa016d7.jpg,Matang,Setengah Matang,1,0.9739654064178467,0.9600119190742862,0.7016612887382507
+dataset_sweetnet_numeric/test/images/61_14_B_jpg.rf.ad1d989a8a0e194a3ec1838dc2f0d067.jpg,Matang,Matang,1,0.982090950012207,0.9793610108303249,0.5108768939971924
+dataset_sweetnet_numeric/test/images/61_14_S_jpg.rf.15f31cfe44aa2a47934ad4b917d2061f.jpg,Matang,Matang,1,0.9767865538597107,0.9448099929627023,0.9683496952056885
+dataset_sweetnet_numeric/test/images/61_14_S_jpg.rf.294fcfca8a26d3f10c7ed73598b03f8a.jpg,Matang,Matang,1,0.9822070598602295,0.954337899543379,0.9359204173088074
+dataset_sweetnet_numeric/test/images/61_14_S_jpg.rf.5a5ad1d00e5f2a33b6d456eb7db9c9a1.jpg,Matang,Matang,1,0.9822648167610168,0.9544758560628728,0.9337794780731201
+dataset_sweetnet_numeric/test/images/61_15_S_jpg.rf.00ddb0adeb6f46facc9ac3b8ca8763bb.jpg,Matang,Setengah Matang,1,0.9808365106582642,0.9864754345490714,0.7212978601455688
+dataset_sweetnet_numeric/test/images/61_15_S_jpg.rf.2265c35940cf0b3613641f0a36526347.jpg,Matang,Setengah Matang,1,0.9884799122810364,0.9781173758812172,0.729365348815918
+dataset_sweetnet_numeric/test/images/61_15_S_jpg.rf.69213459fe530bd1407e5ad6e6800573.jpg,Matang,Setengah Matang,1,0.9816915988922119,0.9821996185632549,0.7160145044326782
+dataset_sweetnet_numeric/test/images/61_1_S_jpg.rf.0f37e6c4eb2279507ac28536443f3e54.jpg,Matang,Setengah Matang,1,0.9671546220779419,0.9827148194271479,0.8214476108551025
+dataset_sweetnet_numeric/test/images/61_1_S_jpg.rf.469332c03c37af32925e265f7030e594.jpg,Matang,Setengah Matang,1,0.9727297425270081,0.9741923641703377,0.9240220189094543
+dataset_sweetnet_numeric/test/images/61_1_S_jpg.rf.9f5c005dd8eafb0cc99094c8a74f3b3d.jpg,Matang,Setengah Matang,1,0.9800174236297607,0.9798234552332913,0.8696554899215698
+dataset_sweetnet_numeric/test/images/61_6_B_jpg.rf.2110771a34beb7f9df098c40135fccb1.jpg,Matang,Setengah Matang,1,0.9796922206878662,0.9885813539985815,0.8606133460998535
+dataset_sweetnet_numeric/test/images/61_7_S_jpg.rf.1432bbf236ff45ce784a8750d62189d8.jpg,Matang,Setengah Matang,1,0.979507327079773,0.9815879850866477,0.6204284429550171
+dataset_sweetnet_numeric/test/images/62_13_S_jpg.rf.29bb82508f98110f82a71ffe89e381e9.jpg,Matang,Matang,1,0.9737911820411682,0.9822922650415844,0.6572200655937195
+dataset_sweetnet_numeric/test/images/62_13_S_jpg.rf.686f05084477356890a4d9071c68cfe9.jpg,Matang,Matang,1,0.975761890411377,0.9816338438061761,0.5000571012496948
+dataset_sweetnet_numeric/test/images/62_13_S_jpg.rf.b7654b695316ab3d4e65a730044928ce.jpg,Matang,Setengah Matang,1,0.9725146293640137,0.9893617021276596,0.5323692560195923
+dataset_sweetnet_numeric/test/images/62_14_B_jpg.rf.01fadb44a32cdf1ca001d407728792de.jpg,Matang,Setengah Matang,1,0.9813168048858643,0.9766370555385376,0.6086184978485107
+dataset_sweetnet_numeric/test/images/62_14_B_jpg.rf.26aa1a8caac343ea056ddeb2e2a26645.jpg,Matang,Setengah Matang,1,0.9797236919403076,0.9851190476190477,0.7733793258666992
+dataset_sweetnet_numeric/test/images/62_14_B_jpg.rf.ae3653ff6de70f2a46d81743a824fc07.jpg,Matang,Setengah Matang,1,0.9825678467750549,0.9891010487269697,0.5896419882774353
+dataset_sweetnet_numeric/test/images/62_15_S_jpg.rf.1833d8a8fba95f64ace30d99edc8d209.jpg,Matang,Setengah Matang,1,0.9810316562652588,0.987567376619623,0.6467917561531067
+dataset_sweetnet_numeric/test/images/62_15_S_jpg.rf.7ae860b643c8180ff6dcb8c656113801.jpg,Matang,Setengah Matang,1,0.968690037727356,0.971716493113873,0.8239687085151672
+dataset_sweetnet_numeric/test/images/62_15_S_jpg.rf.edf6423dd29597ea7bc98b856946e685.jpg,Matang,Setengah Matang,1,0.986874520778656,1.0,0.8280774354934692
+dataset_sweetnet_numeric/test/images/62_2_S_jpg.rf.187b3cba602645b69817f6dd8501b8a2.jpg,Matang,Setengah Matang,1,0.9771127700805664,0.9711581026322063,0.8116527199745178
+dataset_sweetnet_numeric/test/images/62_2_S_jpg.rf.9cffc30be852a53199f959040949aa55.jpg,Matang,Matang,1,0.9774624705314636,0.9672817707531765,0.688787579536438
+dataset_sweetnet_numeric/test/images/62_2_S_jpg.rf.b0e9f441d7fbf0db90eda90d6313b592.jpg,Matang,Setengah Matang,1,0.9761687517166138,0.9546591098516419,0.6523800492286682
+dataset_sweetnet_numeric/test/images/62_6_S_jpg.rf.1060c21fd262d6ff92e8f27af20b74a2.jpg,Matang,Setengah Matang,1,0.9712066650390625,0.9786972656002635,0.7714012861251831
+dataset_sweetnet_numeric/test/images/62_6_S_jpg.rf.df955b4102a71a749c09360c2999b01d.jpg,Matang,Matang,1,0.9730802774429321,0.9827095995454332,0.6430719494819641
+dataset_sweetnet_numeric/test/images/62_6_S_jpg.rf.f8824900bb7fe9292c0f5d352fd029b6.jpg,Matang,Matang,1,0.971293568611145,0.9771528998242531,0.6461549997329712
+dataset_sweetnet_numeric/test/images/63_2_S_jpg.rf.9b3b7dbf9ca01dd2dfe5faef09b9bc35.jpg,Matang,Matang,1,0.9792266488075256,0.9793085768695525,0.9901997447013855
+dataset_sweetnet_numeric/test/images/63_3_S_jpg.rf.f8f2aecdabe4cd6c2bbc4529e359adb7.jpg,Matang,Matang,1,0.9670934677124023,0.9810370521928802,0.9458047151565552
+dataset_sweetnet_numeric/test/images/64_10_S_jpg.rf.1a0e8437ab1ff94b2b677ae272f3a743.jpg,Matang,Matang,1,0.9781388640403748,0.9751743983808715,0.9988130331039429
+dataset_sweetnet_numeric/test/images/64_10_S_jpg.rf.b338ccb6fe46775a8d54b145e850e598.jpg,Matang,Matang,1,0.9689115285873413,0.9882604562737642,0.99693763256073
+dataset_sweetnet_numeric/test/images/64_10_S_jpg.rf.f8a8a6cfcd8484f975a461a8d865b944.jpg,Matang,Matang,1,0.9775562286376953,0.9907834101382489,0.9981924891471863
+dataset_sweetnet_numeric/test/images/64_11_S_jpg.rf.4a02f8f933e848c81ea78315ed470867.jpg,Matang,Matang,1,0.9632537364959717,0.9844182321246542,0.9823526740074158
+dataset_sweetnet_numeric/test/images/64_11_S_jpg.rf.7e76b50e2a3d4785bb99c94867de14ac.jpg,Matang,Matang,1,0.9632734656333923,0.9734920089362433,0.9587494730949402
+dataset_sweetnet_numeric/test/images/64_11_S_jpg.rf.f99f85e484a5e7fbb74d226b7a0abded.jpg,Matang,Matang,1,0.9715681076049805,0.9682517910150628,0.9089490175247192
+dataset_sweetnet_numeric/test/images/64_12_S_jpg.rf.14054fb8310415f7a9de2ce10f6e4231.jpg,Matang,Matang,1,0.984480619430542,0.9911939670941109,0.9537157416343689
+dataset_sweetnet_numeric/test/images/64_12_S_jpg.rf.9cc024c377e7d4db25da7d8d1fcdb24a.jpg,Matang,Matang,1,0.9822505116462708,0.9841269841269841,0.8915780186653137
+dataset_sweetnet_numeric/test/images/64_12_S_jpg.rf.b2194ffd9cd641838878263b1d0219c6.jpg,Matang,Matang,1,0.9811030626296997,0.9967532467532467,0.9450860023498535
+dataset_sweetnet_numeric/test/images/64_14_B_jpg.rf.36e4a4259306c13ed06c09fa4f1bca14.jpg,Matang,Matang,1,0.984686553478241,0.9836219879518072,0.9616050720214844
+dataset_sweetnet_numeric/test/images/64_14_B_jpg.rf.3c227593747757d761e27b5d57c7844e.jpg,Matang,Matang,1,0.9755792617797852,0.9786478166818036,0.9882083535194397
+dataset_sweetnet_numeric/test/images/64_14_B_jpg.rf.e9abbf5a39f2e9ba993dee0b09d3948c.jpg,Matang,Matang,1,0.98036128282547,0.9865478016359919,0.9836832880973816
+dataset_sweetnet_numeric/test/images/64_4_B_jpg.rf.7119bc3589f85bd6449d7119d8294cd2.jpg,Matang,Matang,1,0.9840384721755981,0.9810711447617504,0.5974282622337341
+dataset_sweetnet_numeric/test/images/64_4_B_jpg.rf.7e437f795b4d4ae8e2c0603e63230478.jpg,Matang,Matang,1,0.9783611297607422,0.987755060356625,0.6007205247879028
+dataset_sweetnet_numeric/test/images/64_4_B_jpg.rf.f264feaa8c417e41b9ef5d9a85fdefe6.jpg,Matang,Matang,1,0.9801837205886841,0.9909638554216867,0.7866453528404236
+dataset_sweetnet_numeric/test/images/65_10_B_jpg.rf.d971b3645fa090a93cad8218373aa08d.jpg,Matang,Matang,1,0.9803539514541626,0.988078212146411,0.997314989566803
+dataset_sweetnet_numeric/test/images/66_4_S_jpg.rf.0253761da1e86237d7fa42343eb09344.jpg,Matang,Matang,1,0.9757717847824097,0.973531624839552,0.9589098691940308
+dataset_sweetnet_numeric/test/images/66_4_S_jpg.rf.7b02d52fbebda32f1feb73a07d46675d.jpg,Matang,Matang,1,0.9779772758483887,0.9771457882138379,0.9563232064247131
+dataset_sweetnet_numeric/test/images/66_4_S_jpg.rf.f015de0bafae84101a792ac8aa9f9158.jpg,Matang,Matang,1,0.9809051752090454,0.9537328224409839,0.9576122760772705
+dataset_sweetnet_numeric/test/images/67_4_S_jpg.rf.1e6b6fd57c9fc103716f35a38203016c.jpg,Matang,Matang,1,0.9777615070343018,0.9743758552139002,0.9932610392570496
+dataset_sweetnet_numeric/test/images/67_4_S_jpg.rf.3c341aa80180d4740c05d0ff1702e6b8.jpg,Matang,Matang,1,0.97636878490448,0.9741476978193304,0.9784116744995117
+dataset_sweetnet_numeric/test/images/67_4_S_jpg.rf.a6850cc5107d5614307575817e7d1615.jpg,Matang,Matang,1,0.969232439994812,0.9819516165958637,0.9833003282546997
+dataset_sweetnet_numeric/test/images/67_5_B_jpg.rf.73b3bce2fdf671f1d740647706ca9cfc.jpg,Matang,Matang,1,0.9833613634109497,0.9841780433362224,0.979215681552887
+dataset_sweetnet_numeric/test/images/68_10_S_jpg.rf.bd0357262a689aa68a26bb33beddb15d.jpg,Matang,Matang,1,0.9721776247024536,0.9820823489523497,0.9958155751228333
+dataset_sweetnet_numeric/test/images/68_12_S_jpg.rf.41de809d3bb08d76269e99adcf54bfa4.jpg,Matang,Matang,1,0.9765627384185791,0.99014312914086,0.9952768087387085
+dataset_sweetnet_numeric/test/images/68_12_S_jpg.rf.552430fec33234f83a210aad32cffe08.jpg,Matang,Matang,1,0.9757202863693237,0.9602076826349735,0.9905025959014893
+dataset_sweetnet_numeric/test/images/68_12_S_jpg.rf.8f2bcae731f15e47a0aaf94013741342.jpg,Matang,Matang,1,0.9805407524108887,0.9723975979347615,0.9946998357772827
+dataset_sweetnet_numeric/test/images/68_7_B_jpg.rf.581f68bbc96dd46e2685908f94d192e2.jpg,Matang,Matang,1,0.9778273105621338,0.9868421052631579,0.9875248670578003
+dataset_sweetnet_numeric/test/images/68_7_B_jpg.rf.c6160efbddc610afc351ec93baa5d5e6.jpg,Matang,Matang,1,0.9702639579772949,0.9934086043352012,0.996758759021759
+dataset_sweetnet_numeric/test/images/68_7_B_jpg.rf.d6d440bfaf1a52d7f0b69ebd61d128c7.jpg,Matang,Matang,1,0.9770665168762207,0.9793088427472049,0.9891949892044067
+dataset_sweetnet_numeric/test/images/69_15_S_jpg.rf.76006d466d8bebc1ce94f5ed7f77cd84.jpg,Matang,Matang,1,0.9750931859016418,0.9765728696575524,0.9955475330352783
+dataset_sweetnet_numeric/test/images/69_15_S_jpg.rf.8c02a4c0d6e2a698466266dc92b20eae.jpg,Matang,Matang,1,0.9759526252746582,0.9962121212121212,0.9963672161102295
+dataset_sweetnet_numeric/test/images/69_15_S_jpg.rf.be0fec7e81553ec97326daa886ca93d1.jpg,Matang,Matang,1,0.9758666753768921,0.9921150774897344,0.9956531524658203
+dataset_sweetnet_numeric/test/images/69_7_S_jpg.rf.8e5d4523021845255b9509f7dc099e2d.jpg,Matang,Matang,1,0.9799976348876953,0.984,0.9732621908187866
+dataset_sweetnet_numeric/test/images/69_7_S_jpg.rf.b2256ae93021a6c0b7ac1f69cc2acad7.jpg,Matang,Matang,1,0.9814022779464722,0.9797275133735982,0.9942272901535034
+dataset_sweetnet_numeric/test/images/69_7_S_jpg.rf.dd9d6b815600fce3e28471cb7a1e02e4.jpg,Matang,Matang,1,0.9787548184394836,0.9799914686068879,0.9648937582969666
+dataset_sweetnet_numeric/test/images/70_4_B_jpg.rf.06545cc0fc63a247cf7466e6b7770ff5.jpg,Matang,Matang,1,0.9771550893783569,0.9618725298863975,0.9819839596748352
+dataset_sweetnet_numeric/test/images/70_4_B_jpg.rf.9f9bc4f97066362bfc0ed1e076e0a215.jpg,Matang,Matang,1,0.9789948463439941,0.9743589743589743,0.9908456206321716
+dataset_sweetnet_numeric/test/images/70_4_B_jpg.rf.fb99d856c6c69b03781f5f449e4be8c3.jpg,Matang,Matang,1,0.983478307723999,0.991044776119403,0.9926027655601501
+dataset_sweetnet_numeric/test/images/70_6_B_jpg.rf.109c80e27d02edd8a789a033eb714587.jpg,Matang,Matang,1,0.9816839694976807,0.9936507936507937,0.9568372964859009
+dataset_sweetnet_numeric/test/images/70_6_B_jpg.rf.6a2371fc755c06e106c5186359912545.jpg,Matang,Matang,1,0.986274778842926,0.9914978795232842,0.9901555776596069
+dataset_sweetnet_numeric/test/images/70_6_B_jpg.rf.81f9566a9c23a5cbe684f84d16982c3d.jpg,Matang,Matang,1,0.9808101654052734,0.984375,0.9827143549919128
+dataset_sweetnet_numeric/test/images/71_2_B_jpg.rf.ef162cb4f9d79b60cf1ac5c75a001f4a.jpg,Matang,Matang,1,0.9784760475158691,0.991592577257341,0.9379024505615234
+dataset_sweetnet_numeric/test/images/71_7_S_jpg.rf.49a03560832b64f0faa14a72c0b59d6e.jpg,Matang,Matang,1,0.9697412252426147,0.9801338251968252,0.8508806228637695
+dataset_sweetnet_numeric/test/images/71_7_S_jpg.rf.a9ae1285a3bf030256f3b2dc615315ad.jpg,Matang,Matang,1,0.9650788307189941,0.9587440034888792,0.9514581561088562
+dataset_sweetnet_numeric/test/images/71_7_S_jpg.rf.c900319f3dbc13ebfcff07095583042c.jpg,Matang,Matang,1,0.9763053059577942,0.9627296723166824,0.9805232882499695
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_42_IMG_9379_jpg.rf.2884b8312ef6b9170ac8aa5050aa4935.jpg,Mentah,Mentah,1,0.9778150320053101,0.9776122905147147,0.9813504219055176
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_42_IMG_9379_jpg.rf.312ab0458a5818db555e8ac9652daf51.jpg,Mentah,Mentah,1,0.9514648914337158,0.9794168712207388,0.9386884570121765
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_42_IMG_9379_jpg.rf.a396da86054885d74f0e19505d30fedd.jpg,Mentah,Mentah,1,0.978480339050293,0.9809160305343512,0.9631029963493347
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_42_IMG_9382_jpg.rf.4d06cd82ac5756a18b501ea24e505f6a.jpg,Mentah,Mentah,1,0.9716377258300781,0.9731543624161074,0.9806542992591858
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_42_IMG_9382_jpg.rf.7eedfda7be507f3e9790a85bf9495df0.jpg,Mentah,Mentah,1,0.9803149700164795,0.9834241331138477,0.9799481630325317
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_42_IMG_9382_jpg.rf.f2c42684617dfa0ac10c0f9578633e02.jpg,Mentah,Mentah,1,0.9775024652481079,0.9927534322380036,0.9884327054023743
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_47_IMG_9533_jpg.rf.3b47c3a8c875f015cc1c973a68aafe6e.jpg,Mentah,Setengah Matang,1,0.9787127375602722,0.9429956090980176,0.5254462361335754
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_47_IMG_9533_jpg.rf.d35099f1cbd0644e31fe3773f7721c2f.jpg,Mentah,Setengah Matang,1,0.9664121866226196,0.9833822216194076,0.6420432925224304
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_47_IMG_9533_jpg.rf.fb6600d7529d00c226f575f87320e9df.jpg,Mentah,Setengah Matang,1,0.9707545042037964,0.9610283229891938,0.7825388312339783
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_50_IMG_9716_jpg.rf.02eb2ccce722a7338be229809a0db8e5.jpg,Setengah Matang,Setengah Matang,1,0.9733580350875854,0.9801007233286634,0.9385570287704468
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_50_IMG_9716_jpg.rf.73ae3b17eebe2bd84d9ff7930cc00acc.jpg,Setengah Matang,Setengah Matang,1,0.965343713760376,0.9675267926958282,0.9286351203918457
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_50_IMG_9716_jpg.rf.9da7719253941dde8ba4a92c47db642f.jpg,Setengah Matang,Setengah Matang,1,0.9701365232467651,0.9791174152876281,0.9742851853370667
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_50_IMG_9720_jpg.rf.8250b9bca449ca6306e082c82d4f768e.jpg,Setengah Matang,Setengah Matang,1,0.9688017964363098,0.9684158161393787,0.8172123432159424
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_50_IMG_9720_jpg.rf.8d8751c6b15dd8c0cba84dcc87ab360b.jpg,Setengah Matang,Setengah Matang,1,0.9711685180664062,0.968277886953077,0.6844482421875
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_50_IMG_9720_jpg.rf.cdbdbe07756de164f2edb6b5120e5c13.jpg,Setengah Matang,Setengah Matang,1,0.9768535494804382,0.9837133550488599,0.8990228772163391
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_50_IMG_9723_jpg.rf.e8abf9b7e21e834cb1b195f5eafbb477.jpg,Setengah Matang,Setengah Matang,1,0.9830321073532104,0.9748809789304673,0.8158110976219177
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_52_IMG_9889_jpg.rf.2d1585cb60853408e269b7ca1b959df1.jpg,Setengah Matang,Setengah Matang,1,0.9769867062568665,0.9708300545410143,0.7847304344177246
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_52_IMG_9889_jpg.rf.4c05087a8db5f50c3df43d7ac5cc874d.jpg,Setengah Matang,Setengah Matang,1,0.9738562107086182,0.9776564616354932,0.8385871648788452
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_52_IMG_9889_jpg.rf.97bc37042cf4e0c0d8c2c388a1cc510c.jpg,Setengah Matang,Setengah Matang,1,0.9800081849098206,0.9782927710839459,0.8381282091140747
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_54_IMG_0025_jpg.rf.252acb21c0b7176b061e3c706991fb9c.jpg,Setengah Matang,Setengah Matang,1,0.9717922210693359,0.9833961566033809,0.8109679818153381
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_54_IMG_0025_jpg.rf.48b94076fa88f8ae58fdebf32e317c9d.jpg,Setengah Matang,Setengah Matang,1,0.973013699054718,0.984497712217442,0.6758312582969666
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_54_IMG_0025_jpg.rf.b627f39e2e37bf6688940344b9e07a1c.jpg,Setengah Matang,Setengah Matang,1,0.9831505417823792,0.9862153170137841,0.7305182218551636
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_54_IMG_0031_jpg.rf.748dcb38af7e1bdb8f904157e2c45200.jpg,Setengah Matang,Setengah Matang,1,0.9839780330657959,0.9916196814444241,0.7379099130630493
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_57_IMG_0158_jpg.rf.6652c1b6cdc8f473d0c4523716c74b87.jpg,Matang,Matang,1,0.9842907190322876,0.9812514712518008,0.9894863367080688
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_57_IMG_0158_jpg.rf.8b8485b35d4655d54a9b7923e85504ad.jpg,Matang,Matang,1,0.9746973514556885,0.9764459565558754,0.9488472938537598
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_57_IMG_0158_jpg.rf.caf3f9fb3a84260a1323cdf0d2047104.jpg,Matang,Matang,1,0.9695440530776978,0.9893625487439319,0.9406153559684753
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_57_IMG_0164_jpg.rf.e41efae573f8f9fff04fa4959582e083.jpg,Matang,Matang,1,0.9819545745849609,0.9895348457241082,0.6262327432632446
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_57_IMG_0169_jpg.rf.47ff8d1a6346519bcd18e9e507ff4da9.jpg,Matang,Matang,1,0.9778497219085693,0.9797411040808034,0.6368678212165833
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_57_IMG_0169_jpg.rf.b1d6740f97d0d00cb52c03109bc50c82.jpg,Matang,Matang,1,0.9812480211257935,0.9859772020467052,0.6153967380523682
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_57_IMG_0169_jpg.rf.f14c82799b55b8cde58c4e08e9f813a0.jpg,Matang,Matang,1,0.9807137250900269,0.9746234258251056,0.9237343668937683
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_61_IMG_0366_jpg.rf.12400ed5791847f75a100fd52b64ada7.jpg,Matang,Matang,1,0.9715529680252075,0.9590740398599369,0.9493817687034607
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_61_IMG_0382_jpg.rf.960959a349a3ef953b8f2adb7de744e6.jpg,Matang,Matang,1,0.9692862033843994,0.9782121926049963,0.9030725955963135
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_61_IMG_0382_jpg.rf.db575321a4529017eec87503d6ffe06b.jpg,Matang,Matang,1,0.9829700589179993,0.9618763650641734,0.7019524574279785
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_61_IMG_0382_jpg.rf.f3a8f891dfb0c306673c7db4bdb4bf79.jpg,Matang,Matang,1,0.9831413626670837,0.9873702616250347,0.8375735878944397
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_64_IMG_0534_jpg.rf.05871e7539229a459aa13d95816022ad.jpg,Matang,Matang,1,0.9672574996948242,0.9809217331341226,0.9988064765930176
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_64_IMG_0534_jpg.rf.1a12eac2a5b02aad329e4ef9d7b6a4a3.jpg,Matang,Matang,1,0.9790060520172119,0.9805352798053528,0.9912473559379578
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_64_IMG_0534_jpg.rf.1eec82483bfbb5d876311fa59b280006.jpg,Matang,Matang,1,0.976870596408844,0.9773378341586693,0.9981934428215027
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_64_IMG_0536_jpg.rf.702322cacc0d6149608af27410ac4e33.jpg,Matang,Matang,1,0.972099244594574,0.9646031746031746,0.9860185384750366
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_64_IMG_0536_jpg.rf.91e283530f12ecd141a3c51c544a84e5.jpg,Matang,Matang,1,0.979662299156189,0.9828677330822885,0.9918298125267029
+dataset_sweetnet_numeric/test/images/Sweetnet_Day_64_IMG_0536_jpg.rf.a5a77b9f5151b28a6e7e9afb96582ad6.jpg,Matang,Matang,1,0.9715495705604553,0.9548742308107525,0.9573946595191956
+dataset_sweetnet_numeric/test/images/Sweetnet_day_39_IMG_9252_jpg.rf.3b771eabd34b41481b52566e0748277a.jpg,Mentah,Mentah,2,0.933099627494812,0.9764849547546732,0.9929153919219971
+dataset_sweetnet_numeric/test/images/Sweetnet_day_39_IMG_9252_jpg.rf.51420fbeba91e0924b3ae2748b524a40.jpg,Mentah,Mentah,1,0.9400908946990967,0.9839193859834163,0.9956836700439453
+dataset_sweetnet_numeric/test/images/Sweetnet_day_39_IMG_9252_jpg.rf.8a8bdedd13421cf45108c7ed6ee5a54c.jpg,Mentah,Mentah,1,0.980548083782196,0.9768995786518176,0.9951897859573364
+dataset_sweetnet_numeric/test/images/Sweetnet_day_39_IMG_9263_jpg.rf.158c9373102b9a0f470f898418725188.jpg,Mentah,Mentah,1,0.9758774042129517,0.9585897260254405,0.9939032196998596
